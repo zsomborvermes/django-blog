@@ -79,6 +79,11 @@ a.article-title:hover {
   margin-bottom: 16px;
 }
 
+.nav-img {
+  height: 28px;
+  width: 28px;
+}
+
 .account-heading {
   font-size: 2.5rem;
 }
